@@ -23,4 +23,4 @@ The page is a simple QR code component using HTML and CSS only.
 
 ## Author
 
-- LinkedIn - [Alec hapiak]https://www.linkedin.com/in/alec-hapiak/
+- LinkedIn - https://www.linkedin.com/in/alec-hapiak/
