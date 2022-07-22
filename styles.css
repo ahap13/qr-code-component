@@ -1,0 +1,37 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+    justify-content: center;
+    margin: 0;
+}
+
+/* QR Component */
+.component {
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 10% auto;
+    padding: 15px;
+    text-align: center;
+    width: 260px;
+}
+
+img {
+    border-radius: 10px;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 20px;
+    margin: 15px auto;
+    width: 90%;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 14px;
+    margin: 15px auto;
+    width: 90%;
+}
