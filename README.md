@@ -12,7 +12,7 @@ The page is a simple QR code component using HTML and CSS only.
 
 ### Link to Site
 
-- Site URL: (https://your-live-site-url.com)
+- Site URL: https://ahap13.github.io/qr-code-component/
 
 ## My process
 
@@ -23,4 +23,4 @@ The page is a simple QR code component using HTML and CSS only.
 
 ## Author
 
-- LinkedIn - [Alec hapiak](https://www.your-site.com)
+- LinkedIn - [Alec hapiak]https://www.linkedin.com/in/alec-hapiak/
